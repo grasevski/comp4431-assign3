@@ -111,6 +111,12 @@ Design
 
 ### Goals
 
+#### Self expression
+
+#### Challenge
+
+#### Fellowship
+
 ### Mechanics
 
 ### Justification of mechanics
