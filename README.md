@@ -129,7 +129,20 @@ I aimed to make a competitive game with one on one conflict. Players would battl
 
 ### Mechanics
 
+The mechanics are listed above in the game rules, but I shall elaborate here. As per the spec, there are two main components to the mechanics:
+
+1. The arena - two players battle each other
+2. Ranking tables - there is an overall competition, players are matched based on a ranking system of some sort
+
+The arena for this game is typically, but does not have to be, a small area of a park, with the boundaries marked out both implicitly (eg you would not want to ride into a pond) and explicitly (usually based on landmarks eg cant go past the telegraph pole, but witches hats can be used). Each player chooses or makes a whip (fallen willow tree branches are good for this, as real whips could be quite dangerous) and each player takes a (typically BMX) bike. They both choose a starting point in the arena. The battle then proceeds as specified in the rules.
+
+Typically the minimal and primitive "winner plays on" system is employed for rankings, as there are usually only a small number of players playing, and each persons recovery time varies and can sometimes be quite long.
+
 ### Justification of mechanics
+
+My game was designed from a toy-centric paradigm. I started by finding some toys which I liked - willow tree branches and bicycles. Playing with toys involves a lot of self expression, because there are few restrictions - it is up to the person playing with the toy what they want to do with it. By choosing these toys which I like, they were still engaging to play with without any objective other than to be entertained.
+
+From playing with these toys for a few hours, a game naturally emerged. It was only a matter of minutes until one of my friends used a willow tree branch to whip somebody, and from this a competition naturally arised, due to the somewhat competitive nature of some of my friends. Eventually it was suggested that we whip each other whilst riding on bicycles, and the game was born. This is my justification for the somewhat vague description of the rules. Initially I simply told playtesters "you ride on bikes and whip each other", and as testing continued and a wider range of participants tested the game I refined the rules so as to streamline it and remove the boring parts of the game. Playtesting was difficult unfortunately, because the game tended to only appeal to a narrow audience of young, uninhibited and competitive males, and many potential playtesters declined for fear of being whipped.
 
 ### Dynamics
 
