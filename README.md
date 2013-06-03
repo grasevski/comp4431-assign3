@@ -111,11 +111,21 @@ Design
 
 ### Goals
 
+My overarching design goal was to create a game with simple rules and a dynamical system which encouraged lateral thinking, and expression and creativity over strategy and calculation.
+
 #### Self expression
+
+As per the assignment specification, I was aiming to create a game with rock-paper-scissors type dynamics. That is, rather than have the gameplay dictated by an obvious dominant strategy, I aimed for having a variety of strategies and tactics which were diverse, yet still balanced.
+
+I also had to incorporate ongoing character development into the game. I've never really been a fan of character development systems, as many seem to reward those with more game time, which seems to me like an unfortunate positive feedback loop (the rich get richer, grinding can become a dominant strategy), not to mention that seems to naturally occur already (experienced players can develop their own playing style and skills without additional aid). I have somewhat marginalized this design goal to some extent admittedly, however I have addressed it in a minimal way in an attempt to keep some of the core benefits whilst mitigating what I consider to be the counterproductive side effects.
 
 #### Challenge
 
+I aimed to make a challenging game which required a combination of skill and power, and my design mainly headed in the direction of physical and social skills. As stated earlier, I aimed to make a game which was instinctive and did not require too much abstract thought. Ie, my game focused more on lateral thinking and tactics than planning and strategy.
+
 #### Fellowship
+
+I aimed to make a competitive game with one on one conflict. Players would battle on many levels - physically (hand eye coordination), intellectually (lateral thinking, tactics), emotionally (insofar as overcoming taboo) and socially (psyche outs). I also aimed to incorporate a ranking system in order to make the game more concrete and not simply just a toy.
 
 ### Mechanics
 
