@@ -117,7 +117,7 @@ My overarching design goal was to create a game with simple rules and a dynamica
 
 As per the assignment specification, I was aiming to create a game with rock-paper-scissors type dynamics. That is, rather than have the gameplay dictated by an obvious dominant strategy, I aimed for having a variety of strategies and tactics which were diverse, yet still balanced.
 
-I also had to incorporate ongoing character development into the game. I've never really been a fan of character development systems, as many seem to reward those with more game time, which seems to me like an unfortunate positive feedback loop (the rich get richer, grinding can become a dominant strategy), not to mention that seems to naturally occur already (experienced players can develop their own playing style and skills without additional aid). I have somewhat marginalized this design goal to some extent admittedly, however I have addressed it in a minimal way in an attempt to keep some of the core benefits whilst mitigating what I consider to be the counterproductive side effects.
+I also had to incorporate ongoing character development into the game. Ive never really been a fan of character development systems, as many seem to reward those with more game time, which seems to me like an unfortunate positive feedback loop (the rich get richer, grinding can become a dominant strategy), not to mention that seems to naturally occur already (experienced players can develop their own playing style and skills without additional aid). I have somewhat marginalized this design goal to some extent admittedly, however I have addressed it in a minimal way in an attempt to keep some of the core benefits whilst mitigating what I consider to be the counterproductive side effects.
 
 #### Challenge
 
@@ -145,6 +145,19 @@ My game was designed from a toy-centric paradigm. I started by finding some toys
 From playing with these toys for a few hours, a game naturally emerged. It was only a matter of minutes until one of my friends used a willow tree branch to whip somebody, and from this a competition naturally arised, due to the somewhat competitive nature of some of my friends. Eventually it was suggested that we whip each other whilst riding on bicycles, and the game was born. This is my justification for the somewhat vague description of the rules. Initially I simply told playtesters "you ride on bikes and whip each other", and as testing continued and a wider range of participants tested the game I refined the rules so as to streamline it and remove the boring parts of the game. Playtesting was difficult unfortunately, because the game tended to only appeal to a narrow audience of young, uninhibited and competitive males, and many potential playtesters declined for fear of being whipped.
 
 ### Dynamics
+
+Whip ride can vary in dynamics based on the players, but there are some general patterns:
+
+* Players new to the game generally play defensively.
+* If one player hits another, the other player is briefly disarmed. The aggressor usually then pummels the disarmed player until they give up. This is a positive feedback loop.
+* A stronger whip will usually disintegrate a weaker whip if they continue to parry each other.
+* Various playing styles emerge depending on the whips, the bikes and the arena.
+* Large arenas result in sparse games, usually consisting of a series of jousts, whereas small arenas result in less riding and more whipping.
+* Players will usually head for higher ground.
+* Players with longer whips will try to maintain a distance from the opposing player, whereas players with shorter whips will generally try to evade the long whip and then rush in close to attack.
+* Players generally give up after a few good whippings.
+* Lashing is fast and requires little skill, but does less damage. A player will seldom give up after one lashing.
+* Whipping on the other hand is slow and requires more skill, but has greater range and damage. One single well-timed whip can completely disarm an opponent.
 
 
 Testing
