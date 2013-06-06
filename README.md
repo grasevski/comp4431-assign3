@@ -165,11 +165,29 @@ Testing
 
 ### Hypothesis
 
+"Whip Ride" encourages multiple styles of gameplay, specialization, and ongoing character development, both cosmetic and functional. Winning in this game is a combination of skill and power. Players compete in one-on-one battles through ranking tables, and these battles are balanced.
+
 ### Aim
+
+To test the hypothesis.
 
 ### Method
 
+#### Sampling Methods, Recruitment, and Criteria
+
+Playtesters recruited included mainly friends, fellow sports team members and willing university students. The game was Originally the game was unofficially tested at a house party with both friends and acquaintances. This was quite successful
+
+#### Participants
+
+#### Playtesting and Observation Methods
+
+#### Questionnaire
+
 ### Results
+
+#### Attitudinal
+
+#### Behavioral
 
 ### Conclusion
 
