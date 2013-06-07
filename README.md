@@ -192,7 +192,7 @@ The first official playtest consisted of two close friends. The second official 
 
 #### Playtesting and Observation Methods
 
-Participants engaged in a playtesting session, in which they found whips and competed in several one-on-one battles, which were recorded on video. Participants were also interviewed between games. Photographs were taken of some of the whips used.
+Participants engaged in a playtesting session, in which they found whips and competed in several one-on-one battles, which were recorded on video. The game results (duration and winner) were later transcribed from the videos. Participants were also interviewed between games. Photographs were taken of some of the whips used.
 
 #### Questionnaire
 
