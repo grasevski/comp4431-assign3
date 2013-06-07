@@ -175,13 +175,45 @@ To test the hypothesis.
 
 #### Sampling Methods, Recruitment, and Criteria
 
-Playtesters recruited included mainly friends, fellow sports team members and willing university students. The game was Originally the game was unofficially tested at a house party with both friends and acquaintances. This was quite successful
+Playtesters recruited included mainly friends, fellow sports team members and willing university students. Originally the game was unofficially tested at a house party with both friends and acquaintances. This was quite successful, as everybody was quite adventurous and uninhibited. However subsequent playtesting proved difficult, as few people were willing to risk getting whipped.
 
 #### Participants
 
+A wide audience was attempted, but the only willing participants tended to come from a specific demographic:
+
+* Young (teenager to young adult)
+* Male
+* Competitive
+* Uninhibited
+
+This was probably due to the somewhat violent and physical nature of the game.
+
+The first official playtest consisted of two close friends. The second official playtest consisted of two fellow soccer team members. Each of these four participants fit the description above.
+
 #### Playtesting and Observation Methods
 
+Participants engaged in a playtesting session, in which they found whips and competed in several one-on-one battles, which were recorded on video. Participants were also interviewed between games. Photographs were taken of some of the whips used.
+
 #### Questionnaire
+
+A 2-page feedback form was given to testers to fill out after the playtesting session. It asked players to provide short answers to the following questions:
+
+1. What was your first impression?
+2. How did that first impression change as you played?
+3. Was there anything that you found frustrating?
+4. Did the game drag at any point? (y/n)
+5. Were there particular aspects that you found satisfying?
+6. What was the most exciting moment of the game?
+7. How was the game length? (too short, too long, just right)
+8. Describe the objectives of the game.
+9. Was the objective clear at all times? (y/n)
+10. What was the most important decision you made?
+11. What type of choices did you make during the game?
+12. What was your strategy for winning?
+13. Did you find any loopholes in the system? (y/n)
+14. How would you describe the conflict?
+15. In what way did you interact with other players?
+16. What elements do you think could be improved?
 
 ### Results
 
