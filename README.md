@@ -144,6 +144,28 @@ My game was designed from a toy-centric paradigm. I started by finding some toys
 
 From playing with these toys for a few hours, a game naturally emerged. It was only a matter of minutes until one of my friends used a willow tree branch to whip somebody, and from this a competition naturally arised, due to the somewhat competitive nature of some of my friends. Eventually it was suggested that we whip each other whilst riding on bicycles, and the game was born. This is my justification for the somewhat vague description of the rules. Initially I simply told playtesters "you ride on bikes and whip each other", and as testing continued and a wider range of participants tested the game I refined the rules so as to streamline it and remove the boring parts of the game. Playtesting was difficult unfortunately, because the game tended to only appeal to a narrow audience of young, uninhibited and competitive males, and many potential playtesters declined for fear of being whipped.
 
+This game facilitates self expression in the following ways:
+
+1. Multiple styles of gameplay
+2. Ongoing character development, both cosmetic and functional
+
+The use of whips encourages specialization, because there are different types of whips, with natural tradeoffs. The length of the whip affects the range of the whip, as well as the "fire rate" (a shorter whip can be used quicker than a long whip). The number of strands affects how the whip can be effectively used. A one strand whip will be capable of making a devastating blow if used correctly, whereas a multi strand whip will be better for lashing. A beginner may be better off with a multi strand whip, where they can easily continuously lash (swing the whip across) their opponent, inflicting minor damage each time, whereas a more experienced player may vouch for a single strand whip, and try and make a single disarming contact on their opponent (by swinging the whip out to the player and quickly jerking it back to get the "crack" sonic boom sound). Other considerations include whether to have any leaves (or other light material) on the whip. Leaves can provide a good shield as they dampen opponents attacks, however they also dampen your attacks by causing drag. The player can then choose which leaves to keep, in a tradeoff between attack and defense.
+
+The styles of gameplay are also naturally affected by players physiques, being a physical game. A large opponent may have more power, but they may also be less agile and also a greater target, so again there are trade offs and opportunities for specialization in this respect also.
+
+Character development comes from physical development as well as the collection of whips. Each battle you win results in a new whip for you, which you can then customize to your own needs. As stated earlier in the goals however, I have somewhat minimized the positive feedback loops that often occur in ongoing character development, because I did not want them to detract from the game, especially for newcomers and casual players. The whips themselves will also naturally wear and tear over time, somewhat counteracting this positive feedback loop.
+
+This game requires a few interesting skills, such as whipping, lashing, riding a bike, evading, and battle tactics. The playtesting seems to suggest that the winner typically has a few of the following traits:
+
+* Strong whip
+* Aggressive
+* Focused
+* Skilled whipping
+* Good timing
+
+Being a physically interactive game, this game has a strong social element to it. Players battle psychologically as well as physically, often taunting their opponents. With more players, a competition aspect would be more tangible, but for small numbers of players, simple systems such as winner plays on, round robin and elimination have been successful.
+
+
 ### Dynamics
 
 Whip ride can vary in dynamics based on the players, but there are some general patterns:
