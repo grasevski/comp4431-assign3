@@ -210,7 +210,7 @@ A wide audience was attempted, but the only willing participants tended to come 
 
 This was probably due to the somewhat violent and physical nature of the game.
 
-The first official playtest consisted of two close friends. The second official playtest consisted of two fellow soccer team members. Each of these four participants fit the description above.
+The first official playtest consisted of two close friends. The second official playtest consisted of two fellow soccer team members. The third and final official playtest consisted of four strangers at UNSW. Each of these eight participants fit the description above.
 
 #### Playtesting and Observation Methods
 
@@ -239,11 +239,70 @@ A 2-page feedback form was given to testers to fill out after the playtesting se
 
 ### Results
 
+The test results are stored in this repo:
+
+* `playtest.odb` - OpenOffice database containing all results
+* `attitudinal.csv` - Answers to q1-3,5-6,8,10-12,14-16
+* `behavioral.csv` - Quantitative behavioral data
+* `histogram.png` - Histogram of game time
+* `boxplot.png` - Box plot of game time
+
+
 #### Attitudinal
+
+Some stats:
+
+* 4 out of 8 people said the game dragged at points
+* All participants thought the game length was "just right"
+* All participants thought the objectives were clear at all times
+* 2 out of 8 people found loopholes in the game
+
+There were varying impressions, ranging from confusion/fear to excitement. Generally it was said that the game seemed quite anarchistic. This first impression generally changed into competitiveness and challenge. The whips breaking combined with the difficulty of riding the tiny bmx bikes caused some frustration for players. Most players found it satisfying when their whip made contact with their opponent. The exciting moments varied, but a common theme was the critical game-deciding moments in a game such as stale mates and unexpected victories were most exciting.
+
+Most players seemed clear on the vague yet simple objectives of the game, interpreting the rules as intended - ie, whip the opponent into submission. Most choices made during the game were tactical, such as choosing which way to go and when to attack and when to defend. Most testers played defense, especially less experienced players, with some using tactics such as waiting for their opponent to let their guard down. A common strategy was to defend until a decent opportunity to strike arose. Most players described the conflict as vicious, physical and somewhat slow at times. Players interacted with each other in ways other than physically whipping each other, such as insulting, talking down, taunting and so on.
+
+Several improvements were suggested by testers. The main ones were:
+
+* Have standardized whips (because the game is often unbalanced and random due to one whip being generally superior to another)
+* Have standardized transport which are easy to control for example adult tricycles http://www.dailyrepublic.com/projects/the-other-side-of-50/massachusetts-engineer-develops-adult-tricycle/ or quad bikes or something (because the BMX bikes were a bit small and awkward to ride effectively)
+* Have clear boundaries (because far too often one player would run far away from the other, slowing the game down and causing it to drag and become boring)
+
+Other comments made by playtesters included opting for more protective clothing (with which I agree) and there was a general criticism of the lack of balance in the game.
+
+Despite this, players seemed to take well to the violent and somewhat subversive nature of the game and they fully embraced it after a few seconds, much to their credit.
+
 
 #### Behavioral
 
+The average game length was a bit over a minute (roughly 80 seconds). Victory was somewhat uniformly distributed, with most people winning close to 50% of the time. Perhaps this randomness could be attributed to a few things:
+
+1. Small sample size
+2. Variation in whips
+3. Lack of familiarity with the game
+
+It ought to be conceded that there is an element of luck in the game, as was one of the main complaints.
+
+Typical behavior observed consisted of:
+
+* Hesitance, on the part of those unfamiliar with the game
+* Aggression, a noticeable personality trait in some of the more competitive testers
+* Laughter, particularly at an opponents expense
+* Confusion, for some players (particularly strangers) this game may have seemed a bit odd, and quite subversive, given that it was presented as a university assignment
+
+Some of the playtests conducted on strangers were quite tame. This was probably due firstly to inhibitions about whipping somebody and secondly due to the whips chosen. Bamboo whips were used for the later playtests. These were quite weak and had little effect, resulting in more draws.
+
+
 ### Conclusion
+
+Overall the game was a moderate success in terms of player enjoyment. The design goals were not entirely satisfied in some respects, such as in the case of balanced play, self expression, challenge and pacing, however on the other hand the playtesting did validate some of my prior assumptions. There was an abundance of specialization and unique playing styles in this game. Everybody played it in their own personal way. There was also a clear element of skill involved in whipping an opponent. The character development on the other hand was quite basic and minimal in the playtesting sessions, consisting of players choosing a whip and their whip disintegrating over time.
+
+The suggested improvements proved to be quite interesting and potentially helpful. Various alternatives were suggested for the arena, the whips and the vehicles. These alternatives can be found in the "Variations" section of the game rules above. One combination which appeals to me is bullwhips with adult tricycles on a basketball court. This appeals to me for several reasons:
+
+* Bullwhips are more durable and more standardized, resulting in more balanced play. Whilst there are different types of bullwhips, they are still balanced because they are designed for slightly different purposes, rather than random tree branches.
+* Adult tricycles are comfortable and easy to pedal without hands, which frees up the player to focus more on the core mechanic: whipping.
+* A basketball court is a conveniently-sized and level playing field with clear boundaries.
+
+It has also been suggested by playtesters that this should be made into a team sport, but this is beyond the scope of the assignment.
 
 
 Notes

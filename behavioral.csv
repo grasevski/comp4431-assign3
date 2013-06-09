@@ -1,0 +1,16 @@
+Round,Player1,Player2,Duration,Winner
+1,Bryce,Taylor,0:30,1
+2,Nick,Taylor,2:30,0
+3,Nick,Taylor,0:30,1
+4,Nick,Bryce,0:30,1
+5,Nick,Taylor,1:00,1
+6,Nick,Taylor,1:00,2
+7,Nick,Bryce,0:30,1
+8,Nick,Bryce,1:30,2
+9,Bryce,Taylor,1:30,2
+10,Nick,Taylor,1:30,2
+11,Michael,Justin,4:00,1
+12,Stranger1,Stranger2,2:30,0
+13,OtherNick,Sohaib,1:00,2
+14,OtherNick,Sohaib,1:00,0
+15,Nick,Michael,0:30,Michael
